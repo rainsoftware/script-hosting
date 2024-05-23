@@ -1,2 +1,2 @@
 # script-hosting
-this repo literally just hosts JS files
+> Provided to GitHub by ChatGPT-4
